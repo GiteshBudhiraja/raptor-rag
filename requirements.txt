@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-milvus
+pypdf
+tiktoken
+sentence-transformers
+langchain-huggingface
+llama-cpp-python -C cmake.args="-DGGML_BLAS=ON;-DGGML_BLAS_VENDOR=OpenBLAS"
+umap-learn
+rank_bm25
