@@ -1,5 +1,5 @@
 # RAG pipeline using Langchain, Milvus db, and RAPTOR indexing
-<hr>
+
 ### Overview
 This project involves an in-depth implementation of a RAG (Retrieval Augmented Generation) model using Langchain integrated with the Milvus vector database. On top of the basic pipeline, the following features have also been implemented:
   - Hybrid search: using BM25 retriever and Milvus db retriever to search for documents.
@@ -26,6 +26,7 @@ This project involves an in-depth implementation of a RAG (Retrieval Augmented G
 
 ### Credits
 This project is created by **Gitesh Budhiraja**.
+
 I have also mentioned references in the notebook, the additional ones are:
   - [RAPTOR repo](https://github.com/parthsarthi03/raptor)
   - [Hybrid search](https://medium.com/etoai/hybrid-search-combining-bm25-and-semantic-search-for-better-results-with-lan-1358038fe7e6)
